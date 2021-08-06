@@ -42,7 +42,7 @@ body{
   width: 100%;
   height: 30px;
   line-height: 10px;
-  background-color:rgb(49, 143, 49);
+  background-color:rgb(29, 28, 28);
   a{
     font-weight: bold;
     color: rgb(235, 227, 227);
@@ -52,7 +52,7 @@ body{
 
 
     &.active{
-      color: #2c3e50;
+      color: #62666b;
     }
   }
 }
